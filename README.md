@@ -25,7 +25,7 @@ npm run dev
 
 ## 🌐 Live Demo
 
-[View Live Demo](YOUR_LIVE_DEMO_LINK)
+[View Live Demo](todoreactnew.netlify.app)
 
 ## 👩‍💻 Author
 
