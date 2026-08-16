@@ -23,9 +23,8 @@ npm install
 npm run dev
 ```
 
-## 🌐 Live Demo
-
-[View Live Demo](todoreactnew.netlify.app)
+## 🌐 Live Deom
+https://todoreactnew.netlify.app/
 
 ## 👩‍💻 Author
 
